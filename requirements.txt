@@ -1,0 +1,6 @@
+stanfordnlp==0.2.0
+pytorch-pretrained-bert==0.6.2
+tqdm==4.35.0
+torch
+nltk
+numpy
